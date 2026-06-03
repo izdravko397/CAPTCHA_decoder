@@ -236,3 +236,5 @@ dataset/model_3/*
 
 extracted_chars/*
 !extracted_chars/ .gitkeep
+
+dataset/dataset_for_3_models.zip
