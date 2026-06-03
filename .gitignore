@@ -221,3 +221,18 @@ __marimo__/
 dataset/fonts/
 dataset/images/
 dataset/masks/
+
+dataset/model_1/images/*
+!dataset/model_1/images/ .gitkeep
+
+dataset/model_1/masks/*
+!dataset/model_1/masks/ .gitkeep
+
+dataset/model_2/*
+!dataset/model_2/ .gitkeep
+
+dataset/model_3/*
+!dataset/model_3/ .gitkeep
+
+extracted_chars/*
+!extracted_chars/ .gitkeep
